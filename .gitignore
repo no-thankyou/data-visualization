@@ -3,4 +3,5 @@
 .idea/
 /docs/_build
 __pycache__/
+static/* linguist-vendored
 
