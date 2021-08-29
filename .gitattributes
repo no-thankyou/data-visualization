@@ -1,1 +1,4 @@
-pet_projects/news_site/static/* linguist-vendored
+*.cs linguist-detectable=true
+*.js linguist-detectable=false`
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
